@@ -68,3 +68,21 @@ Upload the `ESP32_AeroPort_Sentry.ino` firmware to your ESP32 board via the Ardu
 ---
 
 *Built with Python, FastAPI, Streamlit, C++, and Bright Data.*
+
+
+
+👇👇👇
+DEMO VIDEO
+
+https://youtu.be/E2iwF0xbDMA?si=sPTY8dEQsE1Y_T2N
+
+
+
+👇👇👇👇👇👇
+(I HAVE RECORDED THE DEMO THROUGH PHONE SO THE UI WAS BLURRY, SO BELOW IS THE SCREEN RECORDING OF THE FULL UI)
+
+https://drive.google.com/file/d/1-iP4Jafc0ao0eNHzml--Abu9_n0RYQDB/view?usp=sharing
+
+https://drive.google.com/file/d/1CRNI-v0iJm27xIaie3zvsr1rC2nTHxWv/view?usp=sharing
+
+
